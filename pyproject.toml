@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-quantum-teleportation-entanglement-protocol-skill"
+version = "1.0.0"
+description = "3-qubit quantum teleportation protocol utilizing Bell state entanglement and classical feedforward correction"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
