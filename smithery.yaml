@@ -1,0 +1,6 @@
+name: genpark-quantum-teleportation-entanglement-protocol-skill
+version: 1.0.0
+description: 3-qubit quantum teleportation protocol utilizing Bell state entanglement and classical feedforward correction
+command: python
+args:
+  - mcp_server.py
