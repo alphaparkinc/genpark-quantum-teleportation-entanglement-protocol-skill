@@ -1,0 +1,20 @@
+{
+  "name": "genpark-quantum-teleportation-entanglement-protocol-skill",
+  "version": "1.0.0",
+  "description": "3-qubit quantum teleportation protocol utilizing Bell state entanglement and classical feedforward correction",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "quantum-teleportation",
+    "entanglement",
+    "bell-state",
+    "quantum-information",
+    "epr-pair",
+    "python-standard-library",
+    "agent-skills",
+    "quantum-channel",
+    "feedforward",
+    "fidelity"
+  ]
+}
